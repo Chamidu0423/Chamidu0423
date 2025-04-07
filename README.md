@@ -1,12 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<p align="center">
-  <a href="https://github.com/Chamidu0423">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Web+Developer+💻;App+Developer📱;UI%2FUX+Designer🎨;Crafting+intuitive+and+engaging+experiences" alt="Typing SVG" />
-  </a>
-</p>
-
+<h3 align="center">A passionate developer & open source enthusiast from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chamidu0423&label=Profile%20views&color=0e75b6&style=flat" alt="Chamidu0423" />
