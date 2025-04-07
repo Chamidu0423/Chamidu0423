@@ -82,7 +82,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=UI2WEB&theme=radical" />
   </a>
   <a href="https://github.com/Chamidu0423/AI-powered-hospital-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=AI-powered-hospital-system&theme=radical" />
+    <!-- If the repo is private, display this shield icon instead of the error -->
+    <img src="https://img.shields.io/badge/Private%20Project-AI--powered--hospital--system-gray?style=for-the-badge&logo=github&logoColor=white" alt="Private Repo" />
   </a>
 </p>
 
