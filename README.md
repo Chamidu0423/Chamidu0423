@@ -38,14 +38,14 @@
 - **Email:** [chamidudilshan0423@gmail.com](mailto:chamidudilshan0423@gmail.com)  
 - **Location:** Monaragala, Sri Lanka  
 - **Studying:** BSc (Hons) Software Engineering  
-- 📄 [Download My CV](#) _(Link your CV here)_
+- 📄 [Download My CV](#) _()_
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamidu0423&theme=gruvbox&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamidu0423&theme=algolia&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Chamidu Dilshan's GitHub Trophies" />
 </p>
 
 ---
