@@ -79,10 +79,10 @@
 
 <p align="center">
   <a href="https://github.com/Chamidu0423/UI2WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=project1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=UI2WEB&theme=radical" />
   </a>
   <a href="https://github.com/Chamidu0423/AI-powered-hospital-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=project2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chamidu0423&repo=AI-powered-hospital-system&theme=radical" />
   </a>
 </p>
 
