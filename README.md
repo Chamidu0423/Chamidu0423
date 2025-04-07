@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamidu0423&theme=algolia&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Chamidu Dilshan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamidu0423" alt="Chamidu Dilshan's GitHub Trophies" />
 </p>
 
 ---
