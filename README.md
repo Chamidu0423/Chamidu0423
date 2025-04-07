@@ -79,22 +79,21 @@
 
 <p align="center">
   <a href="mailto:chamidudilshan0423@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40" height="40" alt="Email" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="40" height="40" alt="Twitter" />
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
   </a>
   <a href="https://github.com/Chamidu0423">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="40" height="40" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
 </p>
-
 
 
 ---
