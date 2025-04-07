@@ -38,7 +38,6 @@
 - **Email:** [chamidudilshan0423@gmail.com](mailto:chamidudilshan0423@gmail.com)  
 - **Location:** Monaragala, Sri Lanka  
 - **Studying:** BSc (Hons) Software Engineering  
-- 📄 [Download My CV](#) _()_
 
 ---
 
