@@ -1,7 +1,10 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<h3 align="center">A passionate developer & open source enthusiast from Sri Lanka 🇱🇰</h3>
+<h3 align="center">
+  Web Developer | App Developer | UI/UX Designer<br>
+  Crafting intuitive and engaging digital experiences.
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chamidu0423&label=Profile%20views&color=0e75b6&style=flat" alt="Chamidu0423" />
