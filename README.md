@@ -78,17 +78,25 @@
 ### 🤝 Let's Connect
 
 <p align="center">
+  <!-- Email Icon -->
   <a href="mailto:chamidudilshan0423@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&label=" alt="Email" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" width="40" height="40" alt="Email" />
   </a>
+  <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
+  <!-- Twitter Icon -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&label=" alt="Twitter" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" width="40" height="40" alt="Twitter" />
   </a>
+  <!-- GitHub Icon -->
   <a href="https://github.com/Chamidu0423">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white&label=" alt="GitHub" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  <!-- YouTube Icon -->
+  <a href="#">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/youtube.svg" width="40" height="40" alt="YouTube" />
   </a>
 </p>
 
