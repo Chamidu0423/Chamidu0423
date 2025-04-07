@@ -78,27 +78,23 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <!-- Email Icon -->
   <a href="mailto:chamidudilshan0423@gmail.com">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" width="40" height="40" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40" height="40" alt="Email" />
   </a>
-  <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <!-- Twitter Icon -->
   <a href="#">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" width="40" height="40" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="40" height="40" alt="Twitter" />
   </a>
-  <!-- GitHub Icon -->
   <a href="https://github.com/Chamidu0423">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" alt="GitHub" />
   </a>
-  <!-- YouTube Icon -->
   <a href="#">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/youtube.svg" width="40" height="40" alt="YouTube" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="40" height="40" alt="YouTube" />
   </a>
 </p>
+
 
 
 ---
