@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
 <h3 align="center">
   Web Developer | App Developer | UI/UX Designer<br>
-  Crafting intuitive and engaging digital experiences.
 </h3>
 
 <p align="center">
