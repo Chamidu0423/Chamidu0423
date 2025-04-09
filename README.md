@@ -1,40 +1,101 @@
+<!-- README.md -->
+
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<h3 align="center">v</h3>
+<h3 align="center">
+  Web Developer | App Developer | UI/UX Designer<br>
+</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=chamidu0423">
-    <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Chamidu0423&label=Profile%20views&color=0e75b6&style=flat" alt="Chamidu0423" />
+</p>
+
+---
+
+## 📌 About Me
+
+🎓 I'm a passionate **Software Engineering undergraduate** at the **Open University of Sri Lanka**, deeply immersed in the world of technology.
+
+💻 I explore **web development**, **app design**, and **UI/UX principles**, constantly learning and applying new skills to build user-centric digital products.
+
+🚀 My goal is to create **impactful solutions** that blend technology with design, transforming ideas into elegant, functional user experiences.
+
+---
+
+### 🧠 My Focus Areas
+
+- Frontend & Backend Web Development  
+- Mobile App Development  
+- UI/UX Design  
+- Responsive, user-first experiences  
+- Solving real-world problems with tech
+
+---
+
+### 📍 Personal Details
+
+- **Name:** Chamidu Dilshan  
+- **Email:** [chamidudilshan0423@gmail.com](mailto:chamidudilshan0423@gmail.com)  
+- **Location:** Monaragala, Sri Lanka  
+- **Studying:** BSc (Hons) Software Engineering  
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamidu0423" alt="Chamidu Dilshan's GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamidu0423&show_icons=true&theme=tokyonight&hide_border=true" alt="Chamidu0423 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamidu0423&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Languages & Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamidu0423&layout=compact&theme=dracula" />
+</p>
+
+---
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamidu0423&theme=tokyo-night&hide_border=true" alt="Chamidu Dilshan's Contribution Graph" />
+</p>
+
+---
+
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:chamidudilshan0423@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+  </a>
+  <a href="https://github.com/Chamidu0423">
+    <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
 </p>
 
-## 📌 About Me
-- vvvvvvv
 
-## 🧠 My Focus Areas
-- vvvvvvvvvv
+---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamidu0423&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=00000000" alt="chamidu0423's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamidu0423&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" alt="chamidu0423's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamidu0423&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Chamidu Dilshan's GitHub Trophies" />
-</p>
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamidu0423&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's LinkedIn"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's Twitter"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="chamidu0423"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's YouTube"/></a>
-  <a href="mailto:chamidudilshan0423@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's Email"/></a>
-</p>
-
-## 💬 Quote
-> ccccccccccc
+> “Bridging the gap between complex technology and seamless user experiences.”  
+> — Chamidu Dilshan
