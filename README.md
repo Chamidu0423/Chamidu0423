@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<h3 align="center">soft</h3>
+<h3 align="center">v</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chamidu0423">
@@ -8,11 +8,10 @@
 </p>
 
 ## 📌 About Me
-- vvvvvvvvvvvvvvvvvvv
+- vvvvvvv
 
 ## 🧠 My Focus Areas
-- bbbb
-- cccc
+- vvvvvvvvvv
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -38,5 +37,4 @@
 </p>
 
 ## 💬 Quote
-> yoooooooo
-
+> ccccccccccc
