@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<h3 align="center">s</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chamidu0423">
@@ -8,10 +8,14 @@
 </p>
 
 ## 📌 About Me
-- vvv
+- 🎓 I'm a passionate **Software Engineering undergraduate** at the **Open University of Sri Lanka**, deeply immersed in the world of technology.
+- 💻 I explore **web development**, **app design**, and **UI/UX principles**, constantly learning and applying new skills to build user-centric digital products.
 
 ## 🧠 My Focus Areas
-- vvvvv
+- **Frontend & Backend** Web Development
+- **Mobile App** Development
+- **UI/UX** Design
+- Responsive, user-first experiences
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -29,13 +33,14 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's LinkedIn"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's Twitter"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="chamidu0423"/></a>
-  <a href="x" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's YouTube"/></a>
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's LinkedIn"/></a>
+  <a href="https://x.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's Twitter"/></a>
+  <a href="https://github.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="chamidu0423"/></a>
+  <a href="https://youtube.com/@naljian?si=1Rxj76uo_l0bNnxv" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's YouTube"/></a>
   <a href="mailto:chamidudilshan0423@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's Email"/></a>
+  <a href="https://chamidu0423.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 ## 💬 Quote
-> yoooooo
+> Code like it's 2077..
 
