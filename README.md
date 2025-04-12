@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
   </a>
 </p>
-
+<img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg">
 ## 📌 About Me
 - 🎓 I'm a passionate **Software Engineering undergraduate** at the **Open University of Sri Lanka**, deeply immersed in the world of technology.
 - 💻 I explore **web development**, **app design**, and **UI/UX principles**, constantly learning and applying new skills to build user-centric digital products.
