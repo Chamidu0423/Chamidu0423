@@ -39,7 +39,7 @@
   <a href="https://github.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="chamidu0423"/></a>
   <a href="https://youtube.com/@naljian?si=1Rxj76uo_l0bNnxv" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's YouTube"/></a>
   <a href="mailto:chamidudilshan0423@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's Email"/></a>
-  <a href="https://chamidu0423.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://chamidu-dilshaninfo.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 ## 💬 Quote
