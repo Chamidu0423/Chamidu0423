@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chamidu0423">
