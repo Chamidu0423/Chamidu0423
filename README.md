@@ -8,7 +8,7 @@
 </p>
 <p align="center"><img src="https://taronfleet.wordpress.com/wp-content/uploads/2018/02/pixel-city.gif" style="border-radius: 12px;" height="75%" width="75%"></p>
 
-## About Me
+> ## About Me
 - 🎓 I'm a passionate **Software Engineering undergraduate** at the **Open University of Sri Lanka**, deeply immersed in the world of technology.
 - 💻 I explore **web development**, **app design**, and **UI/UX principles**, constantly learning and applying new skills to build user-centric digital products.
 
