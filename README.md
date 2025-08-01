@@ -12,13 +12,13 @@
 - 🎓 I'm a passionate **Software Engineering undergraduate** at the **Open University of Sri Lanka**, deeply immersed in the world of technology.
 - 💻 I explore **web development**, **app design**, and **UI/UX principles**, constantly learning and applying new skills to build user-centric digital products.
 
-## My Focus Areas
+> ## My Focus Areas
 - **Frontend & Backend** Web Development
 - **Mobile App** Development
 - **UI/UX** Design
 - Responsive, user-first experiences
 
-## 📊 GitHub Stats & Trophies
+> ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamidu0423&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=00000000&cache_seconds=86400" alt="chamidu0423's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=chamidu0423&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF&cache_seconds=86400" alt="chamidu0423's GitHub Streak" width="49%" />
@@ -27,12 +27,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chamidu0423&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chamidu Dilshan's GitHub Trophies" />
 </p>
 
-## 🛠️ Languages & Tools
+> ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamidu0423&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-## 🔗 Connect with Me
+> ## 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's LinkedIn"/></a>
   <a href="https://x.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's Twitter"/></a>
@@ -42,6 +42,4 @@
   <a href="https://chamidu-dilshaninfo.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
-## 💬 Quote
-> Code like it's 2077..
 
