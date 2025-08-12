@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
   </a>
 </p>
-<p align="center"><img src="https://i.pinimg.com/originals/ea/3d/0e/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif" style="border-radius: 12px;" height="75%" width="75%"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" style="border-radius: 12px;" height="75%" width="75%"></p>
 
 > ## About Me
 - 🎓 I'm a passionate **Software Engineering undergraduate** at the **Sri Lanka**, deeply immersed in the world of technology.
