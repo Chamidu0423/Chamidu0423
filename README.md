@@ -42,5 +42,4 @@
   <a href="https://chamidu-dilshaninfo.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
----
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="chamidu0423's profile views" />
