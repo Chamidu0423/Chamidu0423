@@ -41,6 +41,6 @@
   <a href="mailto:chamidudilshan0423@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's Email"/></a>
   <a href="https://chamidu-dilshaninfo.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
-
+<a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="chamidu0423's profile views" />
 
