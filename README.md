@@ -41,7 +41,12 @@
   <a href="mailto:chamidudilshan0423@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's Email"/></a>
   <a href="https://chamidu-dilshaninfo.web.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
+
+> ## Support
+<p aligh="center">
 <a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="chamidu0423's profile views" />
 
 <picture>
@@ -55,6 +60,8 @@
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="chamidu0423's profile views" />
 
 <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM4dTAwY2swdWlkd2tnM2NiZXZkOXJlcXhhNTNtN3d2dmNvcG02dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U7b1RLXPGmcEU4u6f0/giphy.gif" height="5%" width="5%" alt="click here gif" /><a href="https://awesomegithub.web.app/" target="_blank" alt="chamidu0423's awesome github tool url">  𝐍𝐞𝐞𝐝 𝐭𝐨 𝐂𝐫𝐚𝐟𝐭 𝐭𝐡𝐢𝐬 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐞𝐥𝐞𝐠𝐚𝐧𝐭 𝐠𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞? 𝐔𝐬𝐞 𝐦𝐲 𝐭𝐨𝐨𝐥
 </p>
