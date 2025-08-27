@@ -46,7 +46,7 @@
 
 <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM4dTAwY2swdWlkd2tnM2NiZXZkOXJlcXhhNTNtN3d2dmNvcG02dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U7b1RLXPGmcEU4u6f0/giphy.gif" height="5%" width="5%" alt="click here gif" /></p>
 
-<p><img src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" height="5%" width="5%" alt="click here gif" /></p>
+<p><img src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg"/></p>
   
 <p><a href="https://awesomegithub.web.app/" target="_blank" alt="chamidu0423's awesome github tool url">  𝐍𝐞𝐞𝐝 𝐭𝐨 𝐂𝐫𝐚𝐟𝐭 𝐭𝐡𝐢𝐬 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐞𝐥𝐞𝐠𝐚𝐧𝐭 𝐠𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞? 𝐔𝐬𝐞 𝐦𝐲 𝐭𝐨𝐨𝐥
 </p>
