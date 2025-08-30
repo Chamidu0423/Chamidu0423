@@ -1,4 +1,5 @@
 ## Announcement
+<img src="https://i.ibb.co/39NP5X3f/1625792489-52606-gif-url.gif" alt="Announcement" border="0" height="10%" width="10%"></a>
 > [JOIN WHATSAPP GROUP](https://chat.whatsapp.com/EKhs8YvgVPSKFMJBeIW7Gs?mode=ems_copy_t)
 ---
 
