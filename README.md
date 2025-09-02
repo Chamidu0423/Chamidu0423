@@ -39,7 +39,7 @@
 </p>
 
 > ## Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Chamidu Dilshan's LinkedIn"/></a>
   <a href="https://x.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Chamidu Dilshan's Twitter"/></a>
   <a href="https://github.com/Chamidu0423" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="chamidu0423"/></a>
