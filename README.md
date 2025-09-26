@@ -1,10 +1,3 @@
-<!--
-## Announcement
-<img src="https://i.ibb.co/39NP5X3f/1625792489-52606-gif-url.gif" alt="Announcement" border="0" height="10%" width="10%"></a>
-> [JOIN WHATSAPP GROUP](https://chat.whatsapp.com/EKhs8YvgVPSKFMJBeIW7Gs?mode=ems_copy_t)
----
--->
-
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"  height="5%" width="5%"> I'm Chamidu Dilshan</h1>
 <div align="center">
   
