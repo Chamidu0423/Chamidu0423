@@ -19,7 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
   </a>
 </p>
-<p align="center"><img src="https://taronfleet.wordpress.com/wp-content/uploads/2018/02/pixel-city.gif" style="border-radius: 12px;" height="75%" width="90%"></p>
+<p align="center"><img src="" style="border-radius: 12px;" height="75%" width="90%"></p>
 
 > ## About Me
 - I'm a passionate **Software Engineering undergraduate** at the **Sri Lanka**, deeply immersed in the world of technology.
