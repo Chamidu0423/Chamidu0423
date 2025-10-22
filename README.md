@@ -36,9 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chamidu0423&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=00000000&cache_seconds=86400" alt="chamidu0423's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=chamidu0423&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF&cache_seconds=86400" alt="chamidu0423's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamidu0423&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chamidu Dilshan's GitHub Trophies" />
-</p>
 
 > ## Languages & Tools
 <p align="center">
