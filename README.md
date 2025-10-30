@@ -64,7 +64,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 </td>
 <td align="center" width="40%">
 
-<img src="https://i.pinimg.com/736x/24/ef/23/24ef2382187e2d99b35a4b3859a9e7de.jpg" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
+<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius: 16px;" alt="Profile Image"/>
 
 </td>
   </tr>
