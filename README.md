@@ -7,7 +7,7 @@
   <tr>
     <td valign="top" width="60%">
 
-# I'm **Chamidu Dilshan**
+# I'm **Chamidu Dilshan** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
 **Software Engineering Undergraduate** from **Sri Lanka**
 Passionate about crafting seamless digital experiences and exploring modern tech trends.
