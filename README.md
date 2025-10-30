@@ -4,16 +4,16 @@
 
 # Hey, I'm **Chamidu Dilshan**
 
-🎓 **Software Engineering Undergraduate** from **Sri Lanka**
-💻 Passionate about crafting seamless digital experiences and exploring modern tech trends.
+**Software Engineering Undergraduate** from **Sri Lanka**
+Passionate about crafting seamless digital experiences and exploring modern tech trends.
 
-### 🚀 What I Do
+> ### What I Do
 
 * Build responsive web and mobile apps with clean UI/UX.
 * Work across the stack using modern tools and frameworks.
 * Learn, create, and share ideas that inspire innovation.
 
-### 🧠 Tech Stack
+> ### Tech Stack
 
 **Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
 **Backend:** Node.js, Express.js
@@ -21,7 +21,7 @@
 **Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
 **Tools:** Docker, Figma, Postman, Git, VS Code
 
-### 🌐 Connect with Me
+> ### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-### ☕ Support
+> ### Support
 
 <p align="left">
 <a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -53,6 +53,8 @@
 ---
 
 ⭐ *Always learning. Always building.*
+
+---
 
 </td>
 <td align="center" width="40%">
