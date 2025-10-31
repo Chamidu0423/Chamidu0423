@@ -1,8 +1,12 @@
+<table>
+  <td>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chamidu0423">
     <img src="https://komarev.com/ghpvc/?username=chamidu0423&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
   </a>
 </p>
+  </td>
+</table>
 <table>
   <tr>
     <td valign="top" width="60%">
