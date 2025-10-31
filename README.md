@@ -60,7 +60,8 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 </p>
 
 ---
-⭐ *Always learning. Always building.*
+⭐ *Always learning. Always building.* 
+
 ---
 
 </td>
