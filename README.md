@@ -30,6 +30,8 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 **Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
 **Tools:** Docker, Figma, Postman, Git, VS Code
 
+> ### Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamidu0423&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="chamidu0423's GitHub Stats" width="49%" />
 </p>
