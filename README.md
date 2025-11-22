@@ -48,7 +48,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   <a href="https://github.com/Chamidu0423" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://youtube.com/@naljian?si=1Rxj76uo_l0bNnxv" target="_blank">
+  <a href="https://www.youtube.com/@NALGEON" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40"/>
   </a>
   <a href="mailto:chamidudilshan0423@gmail.com" target="_blank">
