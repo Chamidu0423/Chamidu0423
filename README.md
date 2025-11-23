@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chamidu%20Dilshan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=AAAAAAAAAAAA;BBBBBBBBBBBB;CCCCCCCCCCCCCCCCCCC" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20Tomorrow%20with%20Code;Always%20Learning;Always%20Shipping" alt="Typing introduction" />
 </p>
 
 <p align="center">
