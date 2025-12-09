@@ -25,9 +25,13 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 > ### Tech Stack
 
 **Frontend:** React, Vue, Next.js, Tailwind CSS, Vite
+
 **Backend:** Node.js, Express.js
+
 **Databases:** MySQL, MongoDB, SQLite
+
 **Languages:** JavaScript, TypeScript, Python, Java, C++, PHP
+
 **Tools:** Docker, Figma, Postman, Git, VS Code
 
 > ### Stats
