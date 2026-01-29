@@ -7,7 +7,8 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
