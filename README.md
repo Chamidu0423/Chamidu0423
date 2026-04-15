@@ -38,25 +38,13 @@ Passionate about crafting seamless digital experiences and exploring modern tech
 > ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>
-  </a>
-  <a href="https://x.com/Chamidu0423" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Chamidu0423" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@NALGEON" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40"/>
-  </a>
-  <a href="mailto:chamidudilshan0423@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://chamidu-dilshaninfo.web.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
-  </a>
-</p> 
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
+  <a href="https://x.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40"/></a>
+  <a href="https://github.com/Chamidu0423"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
+  <a href="https://www.youtube.com/@NALGEON"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="40"/></a>
+  <a href="mailto:chamidudilshan0423@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+  <a href="https://chamidu-dilshaninfo.web.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/></a>
+</p>
 
 > ### Support
 
