@@ -56,7 +56,7 @@ Passionate about crafting seamless digital experiences and exploring modern tech
   <a href="https://chamidu-dilshaninfo.web.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
   </a>
-</p>
+</p> 
 
 > ### Support
 
